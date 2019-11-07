@@ -1,3 +1,5 @@
+Creating a simple icon by defining it's specifications. It was intended to get hands on experience in building the components through React hooks
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
